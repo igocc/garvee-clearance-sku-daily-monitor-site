@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:06:39.955Z",
+  "generated_at": "2026-09-04T15:10:35.225Z",
   "site": "GARVEE US",
   "timezone": "Asia/Shanghai",
   "currency": "USD",
@@ -100139,6 +100139,9 @@
     "duplicate_sku_groups": 0,
     "shopify_catalog_mapped": 884,
     "shopify_multi_variant_skus": 87,
+    "shopify_catalog_price_skus": 891,
+    "shopify_catalog_price_range_skus": 7,
+    "shopify_catalog_price_inventory_coverage": 0.951121,
     "ga4_skus_with_landing_sessions": 872
   },
   "quality": {
@@ -100227,7 +100230,7 @@
       }
     },
     "report": {
-      "generated_at": "2026-09-04T15:06:39.954Z",
+      "generated_at": "2026-09-04T15:10:35.224Z",
       "status": "passed_with_warnings",
       "checks": [
         {
@@ -100260,6 +100263,14 @@
           "actual": "2026-09-04T14:56:06.888Z",
           "mode": "cached",
           "source": "Shopify Admin GraphQL productVariants.price (displayed price; compareAtPrice is strikethrough price)"
+        },
+        {
+          "id": "shopify_catalog_price_coverage",
+          "status": "pass",
+          "actual": 0.951121,
+          "threshold": 0.94,
+          "sku_count": 891,
+          "range_sku_count": 7
         },
         {
           "id": "shopify_distinct_orders",
