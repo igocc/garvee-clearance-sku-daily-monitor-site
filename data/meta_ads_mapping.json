@@ -1,0 +1,2376 @@
+[
+  {
+    "sku": "PAE_336QBWAH",
+    "shopify_product_ids": [
+      "9878307176761"
+    ],
+    "shopify_variant_ids": [
+      "50779992523065"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAE_336QTYP8",
+    "shopify_product_ids": [
+      "9878307209529"
+    ],
+    "shopify_variant_ids": [
+      "50779992555833"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAE_338FGSV9",
+    "shopify_product_ids": [
+      "9938015715641"
+    ],
+    "shopify_variant_ids": [
+      "51031795761465"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAE_33AHP5TH",
+    "shopify_product_ids": [
+      "10102621241657"
+    ],
+    "shopify_variant_ids": [
+      "51713733525817"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAE_33CAVVE3",
+    "shopify_product_ids": [
+      "9954545369401",
+      "9954545991993"
+    ],
+    "shopify_variant_ids": [
+      "51083232772409",
+      "51083233919289"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAE_33SVV6LJ",
+    "shopify_product_ids": [
+      "10107540406585"
+    ],
+    "shopify_variant_ids": [
+      "51747451502905"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAS_335DUTGJ",
+    "shopify_product_ids": [
+      "10224990945593"
+    ],
+    "shopify_variant_ids": [
+      "53356659245369"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PAU_0HFFAV4E",
+    "shopify_product_ids": [
+      "9482678567225"
+    ],
+    "shopify_variant_ids": [
+      "49793041301817"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAU_0HLGU4QH",
+    "shopify_product_ids": [
+      "9483010801977"
+    ],
+    "shopify_variant_ids": [
+      "49451059151161"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAU_0HSM6L7C",
+    "shopify_product_ids": [
+      "9482229285177",
+      "9742994866489"
+    ],
+    "shopify_variant_ids": [
+      "49446931333433",
+      "50301971595577"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAU_0JWB55OA",
+    "shopify_product_ids": [
+      "9508430512441"
+    ],
+    "shopify_variant_ids": [
+      "49546384474425"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAU_0KH5C7VK",
+    "shopify_product_ids": [
+      "9483015520569"
+    ],
+    "shopify_variant_ids": [
+      "49789271507257"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAU_0KWBI3V3",
+    "shopify_product_ids": [
+      "10010583826745"
+    ],
+    "shopify_variant_ids": [
+      "51255189831993"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PAU_3ME3WGED",
+    "shopify_product_ids": [
+      "9954520957241"
+    ],
+    "shopify_variant_ids": [
+      "51083188928825"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PBE_0BTSPW0V",
+    "shopify_product_ids": [
+      "9483745526073"
+    ],
+    "shopify_variant_ids": [
+      "49454618411321"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PBE_0BZDN1U7",
+    "shopify_product_ids": [
+      "9914123747641"
+    ],
+    "shopify_variant_ids": [
+      "50961832476985"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHH_3356SKDJ",
+    "shopify_product_ids": [
+      "10224259891513"
+    ],
+    "shopify_variant_ids": [
+      "53353908011321"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHH_3357B8L6",
+    "shopify_product_ids": [
+      "10296186536249"
+    ],
+    "shopify_variant_ids": [
+      "54281164718393"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHH_335BULVM",
+    "shopify_product_ids": [
+      "10225112187193"
+    ],
+    "shopify_variant_ids": [
+      "53357137232185"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_33SSAMU0",
+    "shopify_product_ids": [
+      "10013139927353",
+      "10299514585401"
+    ],
+    "shopify_variant_ids": [
+      "51262441521465",
+      "54301299048761"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_33SSM4GR",
+    "shopify_product_ids": [
+      "10013140123961"
+    ],
+    "shopify_variant_ids": [
+      "51262441718073"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_33SSMDT6",
+    "shopify_product_ids": [
+      "10013139861817"
+    ],
+    "shopify_variant_ids": [
+      "51262441357625"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHK_34DJ5SK5",
+    "shopify_product_ids": [
+      "9491400851769"
+    ],
+    "shopify_variant_ids": [
+      "49490932695353"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_34DJV4O3",
+    "shopify_product_ids": [
+      "9482985013561"
+    ],
+    "shopify_variant_ids": [
+      "49450990010681"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_35FJ9S3L",
+    "shopify_product_ids": [
+      "10075466268985"
+    ],
+    "shopify_variant_ids": [
+      "51457750860089"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHK_35GK5553",
+    "shopify_product_ids": [
+      "10013170336057"
+    ],
+    "shopify_variant_ids": [
+      "51262476747065"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_35GKD3T3",
+    "shopify_product_ids": [
+      "10013170368825"
+    ],
+    "shopify_variant_ids": [
+      "51262476779833"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_35MCDC47",
+    "shopify_product_ids": [
+      "10022416679225"
+    ],
+    "shopify_variant_ids": [
+      "51293003153721"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHK_36BX5ADX",
+    "shopify_product_ids": [
+      "10007050387769"
+    ],
+    "shopify_variant_ids": [
+      "51238376898873"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_36BX6DC6",
+    "shopify_product_ids": [
+      "10225533845817"
+    ],
+    "shopify_variant_ids": [
+      "53358286700857"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_36BXAYG4",
+    "shopify_product_ids": [
+      "10223946531129"
+    ],
+    "shopify_variant_ids": [
+      "53353096577337"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_36BXT7CP",
+    "shopify_product_ids": [
+      "10225562288441"
+    ],
+    "shopify_variant_ids": [
+      "53358436483385"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_37WF7H96",
+    "shopify_product_ids": [
+      "10224983245113"
+    ],
+    "shopify_variant_ids": [
+      "53356615860537"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_37WFASB8",
+    "shopify_product_ids": [
+      "10318349140281"
+    ],
+    "shopify_variant_ids": [
+      "54360567447865"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHK_37WFWJY9",
+    "shopify_product_ids": [
+      "10244096393529"
+    ],
+    "shopify_variant_ids": [
+      "53464533532985"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHK_38FBHFL4",
+    "shopify_product_ids": [
+      "10200835260729"
+    ],
+    "shopify_variant_ids": [
+      "53278216651065"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_0PW2VAEL",
+    "shopify_product_ids": [
+      "9491377914169",
+      "9834372628793"
+    ],
+    "shopify_variant_ids": [
+      "49490886983993",
+      "50620003189049"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_0X7QNH6K",
+    "shopify_product_ids": [
+      "9849041223993",
+      "9590678028601",
+      "9704135000377"
+    ],
+    "shopify_variant_ids": [
+      "51971524067641",
+      "49727948620089",
+      "50151128105273"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_0XPG5ARO",
+    "shopify_product_ids": [
+      "9912843239737"
+    ],
+    "shopify_variant_ids": [
+      "50959540420921"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_0XQC1A11",
+    "shopify_product_ids": [
+      "9482819174713"
+    ],
+    "shopify_variant_ids": [
+      "49450193584441"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_0XQCGLKF",
+    "shopify_product_ids": [
+      "9484214272313"
+    ],
+    "shopify_variant_ids": [
+      "49456554049849"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_0ZHMB9JW",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_0ZJ3HK1R",
+    "shopify_product_ids": [
+      "9491330597177"
+    ],
+    "shopify_variant_ids": [
+      "49490746409273"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_0ZJ3Q0XK",
+    "shopify_product_ids": [
+      "9482970038585",
+      "9742218395961"
+    ],
+    "shopify_variant_ids": [
+      "49450886365497",
+      "50299914977593"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_0ZUWJC4I",
+    "shopify_product_ids": [
+      "9482872226105"
+    ],
+    "shopify_variant_ids": [
+      "49450372006201"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_10TCL2DV",
+    "shopify_product_ids": [
+      "9483085578553"
+    ],
+    "shopify_variant_ids": [
+      "49451298586937"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_10TCP8L3",
+    "shopify_product_ids": [
+      "9491330040121"
+    ],
+    "shopify_variant_ids": [
+      "49490743034169"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_10THIXBF",
+    "shopify_product_ids": [
+      "9482798301497",
+      "9491271254329"
+    ],
+    "shopify_variant_ids": [
+      "49450079355193",
+      "49490517754169"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_113K847O",
+    "shopify_product_ids": [
+      "9851317584185"
+    ],
+    "shopify_variant_ids": [
+      "50675756564793"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_113M5KRM",
+    "shopify_product_ids": [
+      "9851317551417"
+    ],
+    "shopify_variant_ids": [
+      "50675756532025"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_11AGD73J",
+    "shopify_product_ids": [
+      "9482669916473"
+    ],
+    "shopify_variant_ids": [
+      "49507682746681"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_11KEZE89",
+    "shopify_product_ids": [
+      "9508527178041"
+    ],
+    "shopify_variant_ids": [
+      "49546694328633"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_11KS0FFR",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_11KS21P8",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_11KS2PZ2",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_11KS6YVN",
+    "shopify_product_ids": [
+      "9660003057977",
+      "9483216912697"
+    ],
+    "shopify_variant_ids": [
+      "49968975413561",
+      "51011785818425"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_11KS7TOV",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_11KSACOW",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_11KSAU81",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_11KSAXQ9",
+    "shopify_product_ids": [
+      "9483071390009"
+    ],
+    "shopify_variant_ids": [
+      "49451246715193"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_11KSGENU",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_11KSNO3F",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_11KSNQF9",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_11KSOFNW",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_11KSYAYW",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PHO_124QHEO0",
+    "shopify_product_ids": [
+      "9483009917241"
+    ],
+    "shopify_variant_ids": [
+      "49451056857401"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_124Y4GUT",
+    "shopify_product_ids": [
+      "9483216585017"
+    ],
+    "shopify_variant_ids": [
+      "49451907776825"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_124YFXZO",
+    "shopify_product_ids": [
+      "9483216257337"
+    ],
+    "shopify_variant_ids": [
+      "49528231657785"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_124YJ92V",
+    "shopify_product_ids": [
+      "9483215962425"
+    ],
+    "shopify_variant_ids": [
+      "49527585145145"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_124YQSU4",
+    "shopify_product_ids": [
+      "9652671840569"
+    ],
+    "shopify_variant_ids": [
+      "49930970530105"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_126DUXCG",
+    "shopify_product_ids": [
+      "9491276792121"
+    ],
+    "shopify_variant_ids": [
+      "49490542035257"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_12ILIG08",
+    "shopify_product_ids": [
+      "9737857171769"
+    ],
+    "shopify_variant_ids": [
+      "50281146220857"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_12IYRWFY",
+    "shopify_product_ids": [
+      "9508644815161"
+    ],
+    "shopify_variant_ids": [
+      "49546963255609"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_12LCK166",
+    "shopify_product_ids": [
+      "9482984128825"
+    ],
+    "shopify_variant_ids": [
+      "49450985128249"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_12LDFJF6",
+    "shopify_product_ids": [
+      "9483070964025"
+    ],
+    "shopify_variant_ids": [
+      "49451245076793"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_12LGRXA4",
+    "shopify_product_ids": [
+      "9508570595641"
+    ],
+    "shopify_variant_ids": [
+      "49546783654201"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_12OASJNK",
+    "shopify_product_ids": [
+      "9482986619193",
+      "9590627500345"
+    ],
+    "shopify_variant_ids": [
+      "49450997612857",
+      "49727876464953"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_12QJB151",
+    "shopify_product_ids": [
+      "9508648321337"
+    ],
+    "shopify_variant_ids": [
+      "49546970792249"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_12QJI9U1",
+    "shopify_product_ids": [
+      "9590879387961"
+    ],
+    "shopify_variant_ids": [
+      "49728252641593"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_12QJY6SF",
+    "shopify_product_ids": [
+      "9508648386873"
+    ],
+    "shopify_variant_ids": [
+      "49546970890553"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_13ZWQGRQ",
+    "shopify_product_ids": [
+      "9974595944761"
+    ],
+    "shopify_variant_ids": [
+      "51138157216057"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_14JUDEQP",
+    "shopify_product_ids": [
+      "9849054101817"
+    ],
+    "shopify_variant_ids": [
+      "50669073465657"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_14K9JM5F",
+    "shopify_product_ids": [
+      "9508434346297",
+      "9523181912377"
+    ],
+    "shopify_variant_ids": [
+      "49546396139833",
+      "49595642806585"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_14PW33T6",
+    "shopify_product_ids": [
+      "9737764634937"
+    ],
+    "shopify_variant_ids": [
+      "50281026224441"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_15EYQ9RM",
+    "shopify_product_ids": [
+      "9965812810041"
+    ],
+    "shopify_variant_ids": [
+      "51396790059321"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_15EYWY5W",
+    "shopify_product_ids": [
+      "9965812842809"
+    ],
+    "shopify_variant_ids": [
+      "51396789207353"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_15F1BGKQ",
+    "shopify_product_ids": [
+      "9814904930617"
+    ],
+    "shopify_variant_ids": [
+      "50540822954297"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_15HN9E8T",
+    "shopify_product_ids": [
+      "9937931010361"
+    ],
+    "shopify_variant_ids": [
+      "51031612784953"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_160DHKRS",
+    "shopify_product_ids": [
+      "10029107609913"
+    ],
+    "shopify_variant_ids": [
+      "51316559380793"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_161GL6KZ",
+    "shopify_product_ids": [
+      "9777664393529"
+    ],
+    "shopify_variant_ids": [
+      "50428357083449"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_1651TQPC",
+    "shopify_product_ids": [
+      "9760500908345"
+    ],
+    "shopify_variant_ids": [
+      "50370193621305"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_1654K1B7",
+    "shopify_product_ids": [
+      "10164914291001",
+      "9737771123001"
+    ],
+    "shopify_variant_ids": [
+      "52074207445305",
+      "50281033957689"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_1654TOGA",
+    "shopify_product_ids": [
+      "9737771286841"
+    ],
+    "shopify_variant_ids": [
+      "50281034121529"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_16J65K8I",
+    "shopify_product_ids": [
+      "9760509067577"
+    ],
+    "shopify_variant_ids": [
+      "50370206695737"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_16KH57TF",
+    "shopify_product_ids": [
+      "9760522076473",
+      "9833888973113"
+    ],
+    "shopify_variant_ids": [
+      "50370238316857",
+      "50618310033721"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_16KHFWWY",
+    "shopify_product_ids": [
+      "9760521912633",
+      "9833888973113"
+    ],
+    "shopify_variant_ids": [
+      "50370238120249",
+      "50618310230329"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_16LUD9T3",
+    "shopify_product_ids": [
+      "9737814704441",
+      "9833848766777"
+    ],
+    "shopify_variant_ids": [
+      "50281084322105",
+      "50618251444537"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_16N70G0Y",
+    "shopify_product_ids": [
+      "9737807954233",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "50281076949305",
+      "50591174983993"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_16N73AQS",
+    "shopify_product_ids": [
+      "9737808085305",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "50281077047609",
+      "51113450897721"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_16N750YG",
+    "shopify_product_ids": [
+      "9825863270713",
+      "9978910572857"
+    ],
+    "shopify_variant_ids": [
+      "51113448571193",
+      "51148986384697"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_16N7KV1W",
+    "shopify_product_ids": [
+      "9898298999097",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "50908937093433",
+      "51113446310201"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_16N7LORL",
+    "shopify_product_ids": [
+      "9825863270713",
+      "9974414016825"
+    ],
+    "shopify_variant_ids": [
+      "51113446211897",
+      "51137647706425"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_16N7OGIG",
+    "shopify_product_ids": [
+      "9966357414201",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "51113441755449",
+      "51113453945145"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_16N7OL5D",
+    "shopify_product_ids": [
+      "9737807364409",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "50281076359481",
+      "50591175049529"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_16N7QCGI",
+    "shopify_product_ids": [
+      "9825863270713",
+      "9974413787449"
+    ],
+    "shopify_variant_ids": [
+      "51113445458233",
+      "51137647477049"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_16N7RF1D",
+    "shopify_product_ids": [
+      "9966357643577",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "51113444180281",
+      "51113446342969"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_333WWB2G",
+    "shopify_product_ids": [
+      "10022399541561"
+    ],
+    "shopify_variant_ids": [
+      "51292833644857"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_333WYEY1",
+    "shopify_product_ids": [
+      "10022399607097"
+    ],
+    "shopify_variant_ids": [
+      "51292833710393"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PHO_33CSTAE9",
+    "shopify_product_ids": [
+      "9737852944697",
+      "9834336387385"
+    ],
+    "shopify_variant_ids": [
+      "50281141993785",
+      "50619840332089"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PHO_34EYYYEE",
+    "shopify_product_ids": [
+      "9991211712825"
+    ],
+    "shopify_variant_ids": [
+      "51184690463033"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_00PK9K67",
+    "shopify_product_ids": [
+      "9491359170873"
+    ],
+    "shopify_variant_ids": [
+      "49490850316601"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_00PKFG30",
+    "shopify_product_ids": [
+      "9491282493753"
+    ],
+    "shopify_variant_ids": [
+      "49490555502905"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_00PKURGP",
+    "shopify_product_ids": [
+      "9483751391545"
+    ],
+    "shopify_variant_ids": [
+      "49454634860857"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_00VUL554",
+    "shopify_product_ids": [
+      "9483745853753"
+    ],
+    "shopify_variant_ids": [
+      "49545345925433"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_00Z7B5KL",
+    "shopify_product_ids": [
+      "9483219337529"
+    ],
+    "shopify_variant_ids": [
+      "49527651434809"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_00Z7ZOU9",
+    "shopify_product_ids": [
+      "9965861241145"
+    ],
+    "shopify_variant_ids": [
+      "51112116650297"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_010D9IT6",
+    "shopify_product_ids": [
+      "9760520405305",
+      "9777605640505"
+    ],
+    "shopify_variant_ids": [
+      "50370236318009",
+      "50428164571449"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_010EXC27",
+    "shopify_product_ids": [
+      "9737856385337"
+    ],
+    "shopify_variant_ids": [
+      "50281145434425"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_011J5OIO",
+    "shopify_product_ids": [
+      "9522979275065"
+    ],
+    "shopify_variant_ids": [
+      "49595384299833"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_334JNLWB",
+    "shopify_product_ids": [
+      "9914156482873"
+    ],
+    "shopify_variant_ids": [
+      "50961894015289"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_334JRF3Y",
+    "shopify_product_ids": [
+      "9914156384569"
+    ],
+    "shopify_variant_ids": [
+      "50961893884217"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_334JRUBE",
+    "shopify_product_ids": [
+      "9914156450105"
+    ],
+    "shopify_variant_ids": [
+      "50961893949753"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PIS_334QM5W3",
+    "shopify_product_ids": [
+      "9965877068089"
+    ],
+    "shopify_variant_ids": [
+      "51112153284921"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PLS_333DBAYR",
+    "shopify_product_ids": [
+      "9965860061497"
+    ],
+    "shopify_variant_ids": [
+      "51112115536185"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PLS_335F6A7X",
+    "shopify_product_ids": [
+      "9954492645689"
+    ],
+    "shopify_variant_ids": [
+      "51083111104825"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PLS_3363EATU",
+    "shopify_product_ids": [
+      "9932471075129"
+    ],
+    "shopify_variant_ids": [
+      "51012249256249"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "POU_0A6HSDGQ",
+    "shopify_product_ids": [
+      "9590599811385"
+    ],
+    "shopify_variant_ids": [
+      "49789958979897"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33878FWA",
+    "shopify_product_ids": [
+      "9934792196409"
+    ],
+    "shopify_variant_ids": [
+      "51019406049593"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33AS0GUE",
+    "shopify_product_ids": [
+      "10169610240313"
+    ],
+    "shopify_variant_ids": [
+      "52091514388793"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33AS8ENV",
+    "shopify_product_ids": [
+      "10169627148601"
+    ],
+    "shopify_variant_ids": [
+      "52091631272249"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33AS9XFF",
+    "shopify_product_ids": [
+      "10169601327417"
+    ],
+    "shopify_variant_ids": [
+      "52091461828921"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33AS9YI4",
+    "shopify_product_ids": [
+      "10169621709113"
+    ],
+    "shopify_variant_ids": [
+      "52091592048953"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33ASFJM5",
+    "shopify_product_ids": [
+      "10169564758329"
+    ],
+    "shopify_variant_ids": [
+      "52091313619257"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33ASO0UE",
+    "shopify_product_ids": [
+      "10183192936761"
+    ],
+    "shopify_variant_ids": [
+      "52522670850361"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33ASW1YD",
+    "shopify_product_ids": [
+      "10169646743865"
+    ],
+    "shopify_variant_ids": [
+      "52091720728889"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33ASZLVF",
+    "shopify_product_ids": [
+      "10169653461305"
+    ],
+    "shopify_variant_ids": [
+      "52091745698105"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33P9XSPX",
+    "shopify_product_ids": [
+      "10022402228537"
+    ],
+    "shopify_variant_ids": [
+      "51292836921657"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33Q55H8S",
+    "shopify_product_ids": [
+      "10021648597305"
+    ],
+    "shopify_variant_ids": [
+      "51286599139641"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33Q5JNST",
+    "shopify_product_ids": [
+      "10021648499001"
+    ],
+    "shopify_variant_ids": [
+      "51286599041337"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PPG_33Q5WDER",
+    "shopify_product_ids": [
+      "10021648630073"
+    ],
+    "shopify_variant_ids": [
+      "51286599205177"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PSS_33CX5BP5",
+    "shopify_product_ids": [
+      "10053033754937"
+    ],
+    "shopify_variant_ids": [
+      "51397356814649"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PSS_33CYPCVJ",
+    "shopify_product_ids": [
+      "10053030445369"
+    ],
+    "shopify_variant_ids": [
+      "51397352554809"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PST_02TZN2NU",
+    "shopify_product_ids": [
+      "9482978623801",
+      "10022456426809"
+    ],
+    "shopify_variant_ids": [
+      "49450956259641",
+      "51293212082489"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTH_33DSFA7V",
+    "shopify_product_ids": [
+      "10159805006137"
+    ],
+    "shopify_variant_ids": [
+      "52055079059769"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0Y7D3QBY",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0Y7D7TE8",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0Y7DG65D",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0Y7DGJOA",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0Y7DN855",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0Y7DSEEK",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0Y7DTSW1",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0Y7DVDA4",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0Y7DXFTG",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLO18T3",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLO69NT",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLO6WKL",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLO8Y66",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLO9984",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLODT69",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLOHUT8",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLOK1EA",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLOM2MQ",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLOMFIR",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLOMX4K",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLOO3DR",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLOPFSE",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLOVXQR",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLPBKJH",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLPE68C",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YLPERAI",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YMRXPAR",
+    "shopify_product_ids": [
+      "9998034829625"
+    ],
+    "shopify_variant_ids": [
+      "51206011060537"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0YQIFM7T",
+    "shopify_product_ids": [
+      "9491288817977"
+    ],
+    "shopify_variant_ids": [
+      "49490574311737"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0YXA0WMY",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YXA3SBX",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YXAAVZI",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YXAFPZ9",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0YXAUZFZ",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  },
+  {
+    "sku": "PTO_0Z2QSM1V",
+    "shopify_product_ids": [
+      "9482990190905"
+    ],
+    "shopify_variant_ids": [
+      "49451009540409"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PTO_0ZC84KM3",
+    "shopify_product_ids": [
+      "9652675150137"
+    ],
+    "shopify_variant_ids": [
+      "49930984096057"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0ZC8I8IU",
+    "shopify_product_ids": [
+      "9652675084601"
+    ],
+    "shopify_variant_ids": [
+      "49930984030521"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0ZC8T9CF",
+    "shopify_product_ids": [
+      "9652675182905"
+    ],
+    "shopify_variant_ids": [
+      "49930984161593"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0ZEG7Q6P",
+    "shopify_product_ids": [
+      "9863938146617"
+    ],
+    "shopify_variant_ids": [
+      "50723302932793"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 已有映射，但报告期内没有可归集到该 SKU 的 Meta 商品或广告行"
+  },
+  {
+    "sku": "PTO_0ZGMFZ15",
+    "shopify_product_ids": [
+      "10034267324729"
+    ],
+    "shopify_variant_ids": [
+      "51334756073785"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0ZGMWD2O",
+    "shopify_product_ids": [
+      "10034267521337"
+    ],
+    "shopify_variant_ids": [
+      "51334756663609"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0ZGOD9U9",
+    "shopify_product_ids": [
+      "9863937851705"
+    ],
+    "shopify_variant_ids": [
+      "50723302637881"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0ZGOJD50",
+    "shopify_product_ids": [
+      "9863937818937"
+    ],
+    "shopify_variant_ids": [
+      "50723302605113"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0ZGOMT4S",
+    "shopify_product_ids": [
+      "9863937786169"
+    ],
+    "shopify_variant_ids": [
+      "50723302572345"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0ZHKN5QK",
+    "shopify_product_ids": [
+      "9863939850553"
+    ],
+    "shopify_variant_ids": [
+      "50723304636729"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_0ZHTVLW4",
+    "shopify_product_ids": [
+      "9863939195193"
+    ],
+    "shopify_variant_ids": [
+      "50723303981369"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_3336YS1N",
+    "shopify_product_ids": [
+      "9863938572601"
+    ],
+    "shopify_variant_ids": [
+      "50723303326009"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "PTO_333DBYHJ",
+    "shopify_product_ids": [
+      "9863937491257"
+    ],
+    "shopify_variant_ids": [
+      "50723302310201"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "reason": "Meta 商品行通过 Shopify variant/product ID 或广告名称中的精确 SKU 匹配"
+  },
+  {
+    "sku": "VAM_1ECH8AI3",
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_positive_impression_row_in_period",
+    "ads_match_status_7d": "no_positive_impression_row_in_7d",
+    "reason": "Shopify 目录未返回该 SKU，无法验证 Meta product_id 的归属"
+  }
+]
