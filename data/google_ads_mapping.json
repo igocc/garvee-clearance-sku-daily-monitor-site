@@ -1,0 +1,3686 @@
+[
+  {
+    "sku": "PAE_336QBWAH",
+    "pid": "9878307176761",
+    "shopify_product_ids": [
+      "9878307176761"
+    ],
+    "shopify_variant_ids": [
+      "50779992523065"
+    ],
+    "google_item_patterns": [
+      "PAE_336QBWAH",
+      "SHOPIFY_US_9878307176761",
+      "SHOPIFY_<country>_9878307176761_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAE_336QTYP8",
+    "pid": "9878307209529",
+    "shopify_product_ids": [
+      "9878307209529"
+    ],
+    "shopify_variant_ids": [
+      "50779992555833"
+    ],
+    "google_item_patterns": [
+      "PAE_336QTYP8",
+      "SHOPIFY_US_9878307209529",
+      "SHOPIFY_<country>_9878307209529_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAE_338FGSV9",
+    "pid": "9938015715641",
+    "shopify_product_ids": [
+      "9938015715641"
+    ],
+    "shopify_variant_ids": [
+      "51031795761465"
+    ],
+    "google_item_patterns": [
+      "PAE_338FGSV9",
+      "SHOPIFY_US_9938015715641",
+      "SHOPIFY_<country>_9938015715641_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAE_33AHP5TH",
+    "pid": "10102621241657",
+    "shopify_product_ids": [
+      "10102621241657"
+    ],
+    "shopify_variant_ids": [
+      "51713733525817"
+    ],
+    "google_item_patterns": [
+      "PAE_33AHP5TH",
+      "SHOPIFY_US_10102621241657",
+      "SHOPIFY_<country>_10102621241657_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAE_33CAVVE3",
+    "pid": "9954545369401",
+    "shopify_product_ids": [
+      "9954545369401",
+      "9954545991993"
+    ],
+    "shopify_variant_ids": [
+      "51083232772409",
+      "51083233919289"
+    ],
+    "google_item_patterns": [
+      "PAE_33CAVVE3",
+      "SHOPIFY_US_9954545369401",
+      "SHOPIFY_<country>_9954545369401_<variant>",
+      "SHOPIFY_US_9954545991993",
+      "SHOPIFY_<country>_9954545991993_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAE_33SVV6LJ",
+    "pid": "10107540406585",
+    "shopify_product_ids": [
+      "10107540406585"
+    ],
+    "shopify_variant_ids": [
+      "51747451502905"
+    ],
+    "google_item_patterns": [
+      "PAE_33SVV6LJ",
+      "SHOPIFY_US_10107540406585",
+      "SHOPIFY_<country>_10107540406585_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAS_335DUTGJ",
+    "pid": "10224990945593",
+    "shopify_product_ids": [
+      "10224990945593"
+    ],
+    "shopify_variant_ids": [
+      "53356659245369"
+    ],
+    "google_item_patterns": [
+      "PAS_335DUTGJ",
+      "SHOPIFY_US_10224990945593",
+      "SHOPIFY_<country>_10224990945593_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAU_0HFFAV4E",
+    "pid": "9482678567225",
+    "shopify_product_ids": [
+      "9482678567225"
+    ],
+    "shopify_variant_ids": [
+      "49793041301817"
+    ],
+    "google_item_patterns": [
+      "PAU_0HFFAV4E",
+      "SHOPIFY_US_9482678567225",
+      "SHOPIFY_<country>_9482678567225_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAU_0HLGU4QH",
+    "pid": "9483010801977",
+    "shopify_product_ids": [
+      "9483010801977"
+    ],
+    "shopify_variant_ids": [
+      "49451059151161"
+    ],
+    "google_item_patterns": [
+      "PAU_0HLGU4QH",
+      "SHOPIFY_US_9483010801977",
+      "SHOPIFY_<country>_9483010801977_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAU_0HSM6L7C",
+    "pid": "9482229285177",
+    "shopify_product_ids": [
+      "9482229285177",
+      "9742994866489"
+    ],
+    "shopify_variant_ids": [
+      "49446931333433",
+      "50301971595577"
+    ],
+    "google_item_patterns": [
+      "PAU_0HSM6L7C",
+      "SHOPIFY_US_9482229285177",
+      "SHOPIFY_<country>_9482229285177_<variant>",
+      "SHOPIFY_US_9742994866489",
+      "SHOPIFY_<country>_9742994866489_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAU_0JWB55OA",
+    "pid": "9508430512441",
+    "shopify_product_ids": [
+      "9508430512441"
+    ],
+    "shopify_variant_ids": [
+      "49546384474425"
+    ],
+    "google_item_patterns": [
+      "PAU_0JWB55OA",
+      "SHOPIFY_US_9508430512441",
+      "SHOPIFY_<country>_9508430512441_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAU_0KH5C7VK",
+    "pid": "9483015520569",
+    "shopify_product_ids": [
+      "9483015520569"
+    ],
+    "shopify_variant_ids": [
+      "49789271507257"
+    ],
+    "google_item_patterns": [
+      "PAU_0KH5C7VK",
+      "SHOPIFY_US_9483015520569",
+      "SHOPIFY_<country>_9483015520569_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAU_0KWBI3V3",
+    "pid": "10010583826745",
+    "shopify_product_ids": [
+      "10010583826745"
+    ],
+    "shopify_variant_ids": [
+      "51255189831993"
+    ],
+    "google_item_patterns": [
+      "PAU_0KWBI3V3",
+      "SHOPIFY_US_10010583826745",
+      "SHOPIFY_<country>_10010583826745_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PAU_3ME3WGED",
+    "pid": "9954520957241",
+    "shopify_product_ids": [
+      "9954520957241"
+    ],
+    "shopify_variant_ids": [
+      "51083188928825"
+    ],
+    "google_item_patterns": [
+      "PAU_3ME3WGED",
+      "SHOPIFY_US_9954520957241",
+      "SHOPIFY_<country>_9954520957241_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PBE_0BTSPW0V",
+    "pid": "9483745526073",
+    "shopify_product_ids": [
+      "9483745526073"
+    ],
+    "shopify_variant_ids": [
+      "49454618411321"
+    ],
+    "google_item_patterns": [
+      "PBE_0BTSPW0V",
+      "SHOPIFY_US_9483745526073",
+      "SHOPIFY_<country>_9483745526073_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PBE_0BZDN1U7",
+    "pid": "9914123747641",
+    "shopify_product_ids": [
+      "9914123747641"
+    ],
+    "shopify_variant_ids": [
+      "50961832476985"
+    ],
+    "google_item_patterns": [
+      "PBE_0BZDN1U7",
+      "SHOPIFY_US_9914123747641",
+      "SHOPIFY_<country>_9914123747641_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHH_3356SKDJ",
+    "pid": "10224259891513",
+    "shopify_product_ids": [
+      "10224259891513"
+    ],
+    "shopify_variant_ids": [
+      "53353908011321"
+    ],
+    "google_item_patterns": [
+      "PHH_3356SKDJ",
+      "SHOPIFY_US_10224259891513",
+      "SHOPIFY_<country>_10224259891513_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHH_3357B8L6",
+    "pid": "10296186536249",
+    "shopify_product_ids": [
+      "10296186536249"
+    ],
+    "shopify_variant_ids": [
+      "54281164718393"
+    ],
+    "google_item_patterns": [
+      "PHH_3357B8L6",
+      "SHOPIFY_US_10296186536249",
+      "SHOPIFY_<country>_10296186536249_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHH_335BULVM",
+    "pid": "10225112187193",
+    "shopify_product_ids": [
+      "10225112187193"
+    ],
+    "shopify_variant_ids": [
+      "53357137232185"
+    ],
+    "google_item_patterns": [
+      "PHH_335BULVM",
+      "SHOPIFY_US_10225112187193",
+      "SHOPIFY_<country>_10225112187193_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_33SSAMU0",
+    "pid": "10013139927353",
+    "shopify_product_ids": [
+      "10013139927353",
+      "10299514585401"
+    ],
+    "shopify_variant_ids": [
+      "51262441521465",
+      "54301299048761"
+    ],
+    "google_item_patterns": [
+      "PHK_33SSAMU0",
+      "SHOPIFY_US_10013139927353",
+      "SHOPIFY_<country>_10013139927353_<variant>",
+      "SHOPIFY_US_10299514585401",
+      "SHOPIFY_<country>_10299514585401_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_33SSM4GR",
+    "pid": "10013140123961",
+    "shopify_product_ids": [
+      "10013140123961"
+    ],
+    "shopify_variant_ids": [
+      "51262441718073"
+    ],
+    "google_item_patterns": [
+      "PHK_33SSM4GR",
+      "SHOPIFY_US_10013140123961",
+      "SHOPIFY_<country>_10013140123961_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_33SSMDT6",
+    "pid": "10013139861817",
+    "shopify_product_ids": [
+      "10013139861817"
+    ],
+    "shopify_variant_ids": [
+      "51262441357625"
+    ],
+    "google_item_patterns": [
+      "PHK_33SSMDT6",
+      "SHOPIFY_US_10013139861817",
+      "SHOPIFY_<country>_10013139861817_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_34DJ5SK5",
+    "pid": "9491400851769",
+    "shopify_product_ids": [
+      "9491400851769"
+    ],
+    "shopify_variant_ids": [
+      "49490932695353"
+    ],
+    "google_item_patterns": [
+      "PHK_34DJ5SK5",
+      "SHOPIFY_US_9491400851769",
+      "SHOPIFY_<country>_9491400851769_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_34DJV4O3",
+    "pid": "9482985013561",
+    "shopify_product_ids": [
+      "9482985013561"
+    ],
+    "shopify_variant_ids": [
+      "49450990010681"
+    ],
+    "google_item_patterns": [
+      "PHK_34DJV4O3",
+      "SHOPIFY_US_9482985013561",
+      "SHOPIFY_<country>_9482985013561_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_35FJ9S3L",
+    "pid": "10075466268985",
+    "shopify_product_ids": [
+      "10075466268985"
+    ],
+    "shopify_variant_ids": [
+      "51457750860089"
+    ],
+    "google_item_patterns": [
+      "PHK_35FJ9S3L",
+      "SHOPIFY_US_10075466268985",
+      "SHOPIFY_<country>_10075466268985_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_35GK5553",
+    "pid": "10013170336057",
+    "shopify_product_ids": [
+      "10013170336057"
+    ],
+    "shopify_variant_ids": [
+      "51262476747065"
+    ],
+    "google_item_patterns": [
+      "PHK_35GK5553",
+      "SHOPIFY_US_10013170336057",
+      "SHOPIFY_<country>_10013170336057_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_35GKD3T3",
+    "pid": "10013170368825",
+    "shopify_product_ids": [
+      "10013170368825"
+    ],
+    "shopify_variant_ids": [
+      "51262476779833"
+    ],
+    "google_item_patterns": [
+      "PHK_35GKD3T3",
+      "SHOPIFY_US_10013170368825",
+      "SHOPIFY_<country>_10013170368825_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_35MCDC47",
+    "pid": "10022416679225",
+    "shopify_product_ids": [
+      "10022416679225"
+    ],
+    "shopify_variant_ids": [
+      "51293003153721"
+    ],
+    "google_item_patterns": [
+      "PHK_35MCDC47",
+      "SHOPIFY_US_10022416679225",
+      "SHOPIFY_<country>_10022416679225_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "high",
+    "reason": "Shopify 已有 SKU 关系，但报告周期内无可投放商品行"
+  },
+  {
+    "sku": "PHK_36BX5ADX",
+    "pid": "10007050387769",
+    "shopify_product_ids": [
+      "10007050387769"
+    ],
+    "shopify_variant_ids": [
+      "51238376898873"
+    ],
+    "google_item_patterns": [
+      "PHK_36BX5ADX",
+      "SHOPIFY_US_10007050387769",
+      "SHOPIFY_<country>_10007050387769_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_36BX6DC6",
+    "pid": "10225533845817",
+    "shopify_product_ids": [
+      "10225533845817"
+    ],
+    "shopify_variant_ids": [
+      "53358286700857"
+    ],
+    "google_item_patterns": [
+      "PHK_36BX6DC6",
+      "SHOPIFY_US_10225533845817",
+      "SHOPIFY_<country>_10225533845817_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_36BXAYG4",
+    "pid": "10223946531129",
+    "shopify_product_ids": [
+      "10223946531129"
+    ],
+    "shopify_variant_ids": [
+      "53353096577337"
+    ],
+    "google_item_patterns": [
+      "PHK_36BXAYG4",
+      "SHOPIFY_US_10223946531129",
+      "SHOPIFY_<country>_10223946531129_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_36BXT7CP",
+    "pid": "10225562288441",
+    "shopify_product_ids": [
+      "10225562288441"
+    ],
+    "shopify_variant_ids": [
+      "53358436483385"
+    ],
+    "google_item_patterns": [
+      "PHK_36BXT7CP",
+      "SHOPIFY_US_10225562288441",
+      "SHOPIFY_<country>_10225562288441_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_37WF7H96",
+    "pid": "10224983245113",
+    "shopify_product_ids": [
+      "10224983245113"
+    ],
+    "shopify_variant_ids": [
+      "53356615860537"
+    ],
+    "google_item_patterns": [
+      "PHK_37WF7H96",
+      "SHOPIFY_US_10224983245113",
+      "SHOPIFY_<country>_10224983245113_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_37WFASB8",
+    "pid": "10318349140281",
+    "shopify_product_ids": [
+      "10318349140281"
+    ],
+    "shopify_variant_ids": [
+      "54360567447865"
+    ],
+    "google_item_patterns": [
+      "PHK_37WFASB8",
+      "SHOPIFY_US_10318349140281",
+      "SHOPIFY_<country>_10318349140281_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_37WFWJY9",
+    "pid": "10244096393529",
+    "shopify_product_ids": [
+      "10244096393529"
+    ],
+    "shopify_variant_ids": [
+      "53464533532985"
+    ],
+    "google_item_patterns": [
+      "PHK_37WFWJY9",
+      "SHOPIFY_US_10244096393529",
+      "SHOPIFY_<country>_10244096393529_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHK_38FBHFL4",
+    "pid": "10200835260729",
+    "shopify_product_ids": [
+      "10200835260729"
+    ],
+    "shopify_variant_ids": [
+      "53278216651065"
+    ],
+    "google_item_patterns": [
+      "PHK_38FBHFL4",
+      "SHOPIFY_US_10200835260729",
+      "SHOPIFY_<country>_10200835260729_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_0PW2VAEL",
+    "pid": "9491377914169",
+    "shopify_product_ids": [
+      "9491377914169",
+      "9834372628793"
+    ],
+    "shopify_variant_ids": [
+      "49490886983993",
+      "50620003189049"
+    ],
+    "google_item_patterns": [
+      "PHO_0PW2VAEL",
+      "SHOPIFY_US_9491377914169",
+      "SHOPIFY_<country>_9491377914169_<variant>",
+      "SHOPIFY_US_9834372628793",
+      "SHOPIFY_<country>_9834372628793_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "medium",
+    "reason": "Shopify 已有 SKU 关系，但报告周期内无可投放商品行"
+  },
+  {
+    "sku": "PHO_0X7QNH6K",
+    "pid": "9849041223993",
+    "shopify_product_ids": [
+      "9849041223993",
+      "9590678028601",
+      "9704135000377"
+    ],
+    "shopify_variant_ids": [
+      "51971524067641",
+      "49727948620089",
+      "50151128105273"
+    ],
+    "google_item_patterns": [
+      "PHO_0X7QNH6K",
+      "SHOPIFY_US_9849041223993",
+      "SHOPIFY_<country>_9849041223993_<variant>",
+      "SHOPIFY_US_9590678028601",
+      "SHOPIFY_<country>_9590678028601_<variant>",
+      "SHOPIFY_US_9704135000377",
+      "SHOPIFY_<country>_9704135000377_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_0XPG5ARO",
+    "pid": "9912843239737",
+    "shopify_product_ids": [
+      "9912843239737"
+    ],
+    "shopify_variant_ids": [
+      "50959540420921"
+    ],
+    "google_item_patterns": [
+      "PHO_0XPG5ARO",
+      "SHOPIFY_US_9912843239737",
+      "SHOPIFY_<country>_9912843239737_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_0XQC1A11",
+    "pid": "9482819174713",
+    "shopify_product_ids": [
+      "9482819174713"
+    ],
+    "shopify_variant_ids": [
+      "49450193584441"
+    ],
+    "google_item_patterns": [
+      "PHO_0XQC1A11",
+      "SHOPIFY_US_9482819174713",
+      "SHOPIFY_<country>_9482819174713_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_0XQCGLKF",
+    "pid": "9484214272313",
+    "shopify_product_ids": [
+      "9484214272313"
+    ],
+    "shopify_variant_ids": [
+      "49456554049849"
+    ],
+    "google_item_patterns": [
+      "PHO_0XQCGLKF",
+      "SHOPIFY_US_9484214272313",
+      "SHOPIFY_<country>_9484214272313_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_0ZHMB9JW",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_0ZHMB9JW"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_0ZJ3HK1R",
+    "pid": "9491330597177",
+    "shopify_product_ids": [
+      "9491330597177"
+    ],
+    "shopify_variant_ids": [
+      "49490746409273"
+    ],
+    "google_item_patterns": [
+      "PHO_0ZJ3HK1R",
+      "SHOPIFY_US_9491330597177",
+      "SHOPIFY_<country>_9491330597177_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_0ZJ3Q0XK",
+    "pid": "9482970038585",
+    "shopify_product_ids": [
+      "9482970038585",
+      "9742218395961"
+    ],
+    "shopify_variant_ids": [
+      "49450886365497",
+      "50299914977593"
+    ],
+    "google_item_patterns": [
+      "PHO_0ZJ3Q0XK",
+      "SHOPIFY_US_9482970038585",
+      "SHOPIFY_<country>_9482970038585_<variant>",
+      "SHOPIFY_US_9742218395961",
+      "SHOPIFY_<country>_9742218395961_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_0ZUWJC4I",
+    "pid": "9482872226105",
+    "shopify_product_ids": [
+      "9482872226105"
+    ],
+    "shopify_variant_ids": [
+      "49450372006201"
+    ],
+    "google_item_patterns": [
+      "PHO_0ZUWJC4I",
+      "SHOPIFY_US_9482872226105",
+      "SHOPIFY_<country>_9482872226105_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_10TCL2DV",
+    "pid": "9483085578553",
+    "shopify_product_ids": [
+      "9483085578553"
+    ],
+    "shopify_variant_ids": [
+      "49451298586937"
+    ],
+    "google_item_patterns": [
+      "PHO_10TCL2DV",
+      "SHOPIFY_US_9483085578553",
+      "SHOPIFY_<country>_9483085578553_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_10TCP8L3",
+    "pid": "9491330040121",
+    "shopify_product_ids": [
+      "9491330040121"
+    ],
+    "shopify_variant_ids": [
+      "49490743034169"
+    ],
+    "google_item_patterns": [
+      "PHO_10TCP8L3",
+      "SHOPIFY_US_9491330040121",
+      "SHOPIFY_<country>_9491330040121_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_10THIXBF",
+    "pid": "9482798301497",
+    "shopify_product_ids": [
+      "9482798301497",
+      "9491271254329"
+    ],
+    "shopify_variant_ids": [
+      "49450079355193",
+      "49490517754169"
+    ],
+    "google_item_patterns": [
+      "PHO_10THIXBF",
+      "SHOPIFY_US_9482798301497",
+      "SHOPIFY_<country>_9482798301497_<variant>",
+      "SHOPIFY_US_9491271254329",
+      "SHOPIFY_<country>_9491271254329_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_113K847O",
+    "pid": "9851317584185",
+    "shopify_product_ids": [
+      "9851317584185"
+    ],
+    "shopify_variant_ids": [
+      "50675756564793"
+    ],
+    "google_item_patterns": [
+      "PHO_113K847O",
+      "SHOPIFY_US_9851317584185",
+      "SHOPIFY_<country>_9851317584185_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_113M5KRM",
+    "pid": "9851317551417",
+    "shopify_product_ids": [
+      "9851317551417"
+    ],
+    "shopify_variant_ids": [
+      "50675756532025"
+    ],
+    "google_item_patterns": [
+      "PHO_113M5KRM",
+      "SHOPIFY_US_9851317551417",
+      "SHOPIFY_<country>_9851317551417_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_11AGD73J",
+    "pid": "9482669916473",
+    "shopify_product_ids": [
+      "9482669916473"
+    ],
+    "shopify_variant_ids": [
+      "49507682746681"
+    ],
+    "google_item_patterns": [
+      "PHO_11AGD73J",
+      "SHOPIFY_US_9482669916473",
+      "SHOPIFY_<country>_9482669916473_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "high",
+    "reason": "Shopify 已有 SKU 关系，但报告周期内无可投放商品行"
+  },
+  {
+    "sku": "PHO_11KEZE89",
+    "pid": "9508527178041",
+    "shopify_product_ids": [
+      "9508527178041"
+    ],
+    "shopify_variant_ids": [
+      "49546694328633"
+    ],
+    "google_item_patterns": [
+      "PHO_11KEZE89",
+      "SHOPIFY_US_9508527178041",
+      "SHOPIFY_<country>_9508527178041_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_11KS0FFR",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KS0FFR"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_11KS21P8",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KS21P8"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_11KS2PZ2",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KS2PZ2"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_11KS6YVN",
+    "pid": "9660003057977",
+    "shopify_product_ids": [
+      "9660003057977",
+      "9483216912697"
+    ],
+    "shopify_variant_ids": [
+      "49968975413561",
+      "51011785818425"
+    ],
+    "google_item_patterns": [
+      "PHO_11KS6YVN",
+      "SHOPIFY_US_9660003057977",
+      "SHOPIFY_<country>_9660003057977_<variant>",
+      "SHOPIFY_US_9483216912697",
+      "SHOPIFY_<country>_9483216912697_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_11KS7TOV",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KS7TOV"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_11KSACOW",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KSACOW"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_11KSAU81",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KSAU81"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_11KSAXQ9",
+    "pid": "9483071390009",
+    "shopify_product_ids": [
+      "9483071390009"
+    ],
+    "shopify_variant_ids": [
+      "49451246715193"
+    ],
+    "google_item_patterns": [
+      "PHO_11KSAXQ9",
+      "SHOPIFY_US_9483071390009",
+      "SHOPIFY_<country>_9483071390009_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_11KSGENU",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KSGENU"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_11KSNO3F",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KSNO3F"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_11KSNQF9",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KSNQF9"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_11KSOFNW",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KSOFNW"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_11KSYAYW",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PHO_11KSYAYW"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PHO_124QHEO0",
+    "pid": "9483009917241",
+    "shopify_product_ids": [
+      "9483009917241"
+    ],
+    "shopify_variant_ids": [
+      "49451056857401"
+    ],
+    "google_item_patterns": [
+      "PHO_124QHEO0",
+      "SHOPIFY_US_9483009917241",
+      "SHOPIFY_<country>_9483009917241_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_124Y4GUT",
+    "pid": "9483216585017",
+    "shopify_product_ids": [
+      "9483216585017"
+    ],
+    "shopify_variant_ids": [
+      "49451907776825"
+    ],
+    "google_item_patterns": [
+      "PHO_124Y4GUT",
+      "SHOPIFY_US_9483216585017",
+      "SHOPIFY_<country>_9483216585017_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_124YFXZO",
+    "pid": "9483216257337",
+    "shopify_product_ids": [
+      "9483216257337"
+    ],
+    "shopify_variant_ids": [
+      "49528231657785"
+    ],
+    "google_item_patterns": [
+      "PHO_124YFXZO",
+      "SHOPIFY_US_9483216257337",
+      "SHOPIFY_<country>_9483216257337_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_124YJ92V",
+    "pid": "9483215962425",
+    "shopify_product_ids": [
+      "9483215962425"
+    ],
+    "shopify_variant_ids": [
+      "49527585145145"
+    ],
+    "google_item_patterns": [
+      "PHO_124YJ92V",
+      "SHOPIFY_US_9483215962425",
+      "SHOPIFY_<country>_9483215962425_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_124YQSU4",
+    "pid": "9652671840569",
+    "shopify_product_ids": [
+      "9652671840569"
+    ],
+    "shopify_variant_ids": [
+      "49930970530105"
+    ],
+    "google_item_patterns": [
+      "PHO_124YQSU4",
+      "SHOPIFY_US_9652671840569",
+      "SHOPIFY_<country>_9652671840569_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_126DUXCG",
+    "pid": "9491276792121",
+    "shopify_product_ids": [
+      "9491276792121"
+    ],
+    "shopify_variant_ids": [
+      "49490542035257"
+    ],
+    "google_item_patterns": [
+      "PHO_126DUXCG",
+      "SHOPIFY_US_9491276792121",
+      "SHOPIFY_<country>_9491276792121_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_12ILIG08",
+    "pid": "9737857171769",
+    "shopify_product_ids": [
+      "9737857171769"
+    ],
+    "shopify_variant_ids": [
+      "50281146220857"
+    ],
+    "google_item_patterns": [
+      "PHO_12ILIG08",
+      "SHOPIFY_US_9737857171769",
+      "SHOPIFY_<country>_9737857171769_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_12IYRWFY",
+    "pid": "9508644815161",
+    "shopify_product_ids": [
+      "9508644815161"
+    ],
+    "shopify_variant_ids": [
+      "49546963255609"
+    ],
+    "google_item_patterns": [
+      "PHO_12IYRWFY",
+      "SHOPIFY_US_9508644815161",
+      "SHOPIFY_<country>_9508644815161_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_12LCK166",
+    "pid": "9482984128825",
+    "shopify_product_ids": [
+      "9482984128825"
+    ],
+    "shopify_variant_ids": [
+      "49450985128249"
+    ],
+    "google_item_patterns": [
+      "PHO_12LCK166",
+      "SHOPIFY_US_9482984128825",
+      "SHOPIFY_<country>_9482984128825_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_12LDFJF6",
+    "pid": "9483070964025",
+    "shopify_product_ids": [
+      "9483070964025"
+    ],
+    "shopify_variant_ids": [
+      "49451245076793"
+    ],
+    "google_item_patterns": [
+      "PHO_12LDFJF6",
+      "SHOPIFY_US_9483070964025",
+      "SHOPIFY_<country>_9483070964025_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_12LGRXA4",
+    "pid": "9508570595641",
+    "shopify_product_ids": [
+      "9508570595641"
+    ],
+    "shopify_variant_ids": [
+      "49546783654201"
+    ],
+    "google_item_patterns": [
+      "PHO_12LGRXA4",
+      "SHOPIFY_US_9508570595641",
+      "SHOPIFY_<country>_9508570595641_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_12OASJNK",
+    "pid": "9482986619193",
+    "shopify_product_ids": [
+      "9482986619193",
+      "9590627500345"
+    ],
+    "shopify_variant_ids": [
+      "49450997612857",
+      "49727876464953"
+    ],
+    "google_item_patterns": [
+      "PHO_12OASJNK",
+      "SHOPIFY_US_9482986619193",
+      "SHOPIFY_<country>_9482986619193_<variant>",
+      "SHOPIFY_US_9590627500345",
+      "SHOPIFY_<country>_9590627500345_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_12QJB151",
+    "pid": "9508648321337",
+    "shopify_product_ids": [
+      "9508648321337"
+    ],
+    "shopify_variant_ids": [
+      "49546970792249"
+    ],
+    "google_item_patterns": [
+      "PHO_12QJB151",
+      "SHOPIFY_US_9508648321337",
+      "SHOPIFY_<country>_9508648321337_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_12QJI9U1",
+    "pid": "9590879387961",
+    "shopify_product_ids": [
+      "9590879387961"
+    ],
+    "shopify_variant_ids": [
+      "49728252641593"
+    ],
+    "google_item_patterns": [
+      "PHO_12QJI9U1",
+      "SHOPIFY_US_9590879387961",
+      "SHOPIFY_<country>_9590879387961_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_12QJY6SF",
+    "pid": "9508648386873",
+    "shopify_product_ids": [
+      "9508648386873"
+    ],
+    "shopify_variant_ids": [
+      "49546970890553"
+    ],
+    "google_item_patterns": [
+      "PHO_12QJY6SF",
+      "SHOPIFY_US_9508648386873",
+      "SHOPIFY_<country>_9508648386873_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_13ZWQGRQ",
+    "pid": "9974595944761",
+    "shopify_product_ids": [
+      "9974595944761"
+    ],
+    "shopify_variant_ids": [
+      "51138157216057"
+    ],
+    "google_item_patterns": [
+      "PHO_13ZWQGRQ",
+      "SHOPIFY_US_9974595944761",
+      "SHOPIFY_<country>_9974595944761_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_14JUDEQP",
+    "pid": "9849054101817",
+    "shopify_product_ids": [
+      "9849054101817"
+    ],
+    "shopify_variant_ids": [
+      "50669073465657"
+    ],
+    "google_item_patterns": [
+      "PHO_14JUDEQP",
+      "SHOPIFY_US_9849054101817",
+      "SHOPIFY_<country>_9849054101817_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_14K9JM5F",
+    "pid": "9508434346297",
+    "shopify_product_ids": [
+      "9508434346297",
+      "9523181912377"
+    ],
+    "shopify_variant_ids": [
+      "49546396139833",
+      "49595642806585"
+    ],
+    "google_item_patterns": [
+      "PHO_14K9JM5F",
+      "SHOPIFY_US_9508434346297",
+      "SHOPIFY_<country>_9508434346297_<variant>",
+      "SHOPIFY_US_9523181912377",
+      "SHOPIFY_<country>_9523181912377_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_14PW33T6",
+    "pid": "9737764634937",
+    "shopify_product_ids": [
+      "9737764634937"
+    ],
+    "shopify_variant_ids": [
+      "50281026224441"
+    ],
+    "google_item_patterns": [
+      "PHO_14PW33T6",
+      "SHOPIFY_US_9737764634937",
+      "SHOPIFY_<country>_9737764634937_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_15EYQ9RM",
+    "pid": "9965812810041",
+    "shopify_product_ids": [
+      "9965812810041"
+    ],
+    "shopify_variant_ids": [
+      "51396790059321"
+    ],
+    "google_item_patterns": [
+      "PHO_15EYQ9RM",
+      "SHOPIFY_US_9965812810041",
+      "SHOPIFY_<country>_9965812810041_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_15EYWY5W",
+    "pid": "9965812842809",
+    "shopify_product_ids": [
+      "9965812842809"
+    ],
+    "shopify_variant_ids": [
+      "51396789207353"
+    ],
+    "google_item_patterns": [
+      "PHO_15EYWY5W",
+      "SHOPIFY_US_9965812842809",
+      "SHOPIFY_<country>_9965812842809_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_15F1BGKQ",
+    "pid": "9814904930617",
+    "shopify_product_ids": [
+      "9814904930617"
+    ],
+    "shopify_variant_ids": [
+      "50540822954297"
+    ],
+    "google_item_patterns": [
+      "PHO_15F1BGKQ",
+      "SHOPIFY_US_9814904930617",
+      "SHOPIFY_<country>_9814904930617_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_15HN9E8T",
+    "pid": "9937931010361",
+    "shopify_product_ids": [
+      "9937931010361"
+    ],
+    "shopify_variant_ids": [
+      "51031612784953"
+    ],
+    "google_item_patterns": [
+      "PHO_15HN9E8T",
+      "SHOPIFY_US_9937931010361",
+      "SHOPIFY_<country>_9937931010361_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_160DHKRS",
+    "pid": "10029107609913",
+    "shopify_product_ids": [
+      "10029107609913"
+    ],
+    "shopify_variant_ids": [
+      "51316559380793"
+    ],
+    "google_item_patterns": [
+      "PHO_160DHKRS",
+      "SHOPIFY_US_10029107609913",
+      "SHOPIFY_<country>_10029107609913_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_161GL6KZ",
+    "pid": "9777664393529",
+    "shopify_product_ids": [
+      "9777664393529"
+    ],
+    "shopify_variant_ids": [
+      "50428357083449"
+    ],
+    "google_item_patterns": [
+      "PHO_161GL6KZ",
+      "SHOPIFY_US_9777664393529",
+      "SHOPIFY_<country>_9777664393529_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_1651TQPC",
+    "pid": "9760500908345",
+    "shopify_product_ids": [
+      "9760500908345"
+    ],
+    "shopify_variant_ids": [
+      "50370193621305"
+    ],
+    "google_item_patterns": [
+      "PHO_1651TQPC",
+      "SHOPIFY_US_9760500908345",
+      "SHOPIFY_<country>_9760500908345_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_1654K1B7",
+    "pid": "10164914291001",
+    "shopify_product_ids": [
+      "10164914291001",
+      "9737771123001"
+    ],
+    "shopify_variant_ids": [
+      "52074207445305",
+      "50281033957689"
+    ],
+    "google_item_patterns": [
+      "PHO_1654K1B7",
+      "SHOPIFY_US_10164914291001",
+      "SHOPIFY_<country>_10164914291001_<variant>",
+      "SHOPIFY_US_9737771123001",
+      "SHOPIFY_<country>_9737771123001_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_1654TOGA",
+    "pid": "9737771286841",
+    "shopify_product_ids": [
+      "9737771286841"
+    ],
+    "shopify_variant_ids": [
+      "50281034121529"
+    ],
+    "google_item_patterns": [
+      "PHO_1654TOGA",
+      "SHOPIFY_US_9737771286841",
+      "SHOPIFY_<country>_9737771286841_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16J65K8I",
+    "pid": "9760509067577",
+    "shopify_product_ids": [
+      "9760509067577"
+    ],
+    "shopify_variant_ids": [
+      "50370206695737"
+    ],
+    "google_item_patterns": [
+      "PHO_16J65K8I",
+      "SHOPIFY_US_9760509067577",
+      "SHOPIFY_<country>_9760509067577_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16KH57TF",
+    "pid": "9760522076473",
+    "shopify_product_ids": [
+      "9760522076473",
+      "9833888973113"
+    ],
+    "shopify_variant_ids": [
+      "50370238316857",
+      "50618310033721"
+    ],
+    "google_item_patterns": [
+      "PHO_16KH57TF",
+      "SHOPIFY_US_9760522076473",
+      "SHOPIFY_<country>_9760522076473_<variant>",
+      "SHOPIFY_US_9833888973113",
+      "SHOPIFY_<country>_9833888973113_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16KHFWWY",
+    "pid": "9760521912633",
+    "shopify_product_ids": [
+      "9760521912633",
+      "9833888973113"
+    ],
+    "shopify_variant_ids": [
+      "50370238120249",
+      "50618310230329"
+    ],
+    "google_item_patterns": [
+      "PHO_16KHFWWY",
+      "SHOPIFY_US_9760521912633",
+      "SHOPIFY_<country>_9760521912633_<variant>",
+      "SHOPIFY_US_9833888973113",
+      "SHOPIFY_<country>_9833888973113_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16LUD9T3",
+    "pid": "9737814704441",
+    "shopify_product_ids": [
+      "9737814704441",
+      "9833848766777"
+    ],
+    "shopify_variant_ids": [
+      "50281084322105",
+      "50618251444537"
+    ],
+    "google_item_patterns": [
+      "PHO_16LUD9T3",
+      "SHOPIFY_US_9737814704441",
+      "SHOPIFY_<country>_9737814704441_<variant>",
+      "SHOPIFY_US_9833848766777",
+      "SHOPIFY_<country>_9833848766777_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16N70G0Y",
+    "pid": "9737807954233",
+    "shopify_product_ids": [
+      "9737807954233",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "50281076949305",
+      "50591174983993"
+    ],
+    "google_item_patterns": [
+      "PHO_16N70G0Y",
+      "SHOPIFY_US_9737807954233",
+      "SHOPIFY_<country>_9737807954233_<variant>",
+      "SHOPIFY_US_9825863270713",
+      "SHOPIFY_<country>_9825863270713_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16N73AQS",
+    "pid": "9737808085305",
+    "shopify_product_ids": [
+      "9737808085305",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "50281077047609",
+      "51113450897721"
+    ],
+    "google_item_patterns": [
+      "PHO_16N73AQS",
+      "SHOPIFY_US_9737808085305",
+      "SHOPIFY_<country>_9737808085305_<variant>",
+      "SHOPIFY_US_9825863270713",
+      "SHOPIFY_<country>_9825863270713_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16N750YG",
+    "pid": "9825863270713",
+    "shopify_product_ids": [
+      "9825863270713",
+      "9978910572857"
+    ],
+    "shopify_variant_ids": [
+      "51113448571193",
+      "51148986384697"
+    ],
+    "google_item_patterns": [
+      "PHO_16N750YG",
+      "SHOPIFY_US_9825863270713",
+      "SHOPIFY_<country>_9825863270713_<variant>",
+      "SHOPIFY_US_9978910572857",
+      "SHOPIFY_<country>_9978910572857_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16N7KV1W",
+    "pid": "9898298999097",
+    "shopify_product_ids": [
+      "9898298999097",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "50908937093433",
+      "51113446310201"
+    ],
+    "google_item_patterns": [
+      "PHO_16N7KV1W",
+      "SHOPIFY_US_9898298999097",
+      "SHOPIFY_<country>_9898298999097_<variant>",
+      "SHOPIFY_US_9825863270713",
+      "SHOPIFY_<country>_9825863270713_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16N7LORL",
+    "pid": "9825863270713",
+    "shopify_product_ids": [
+      "9825863270713",
+      "9974414016825"
+    ],
+    "shopify_variant_ids": [
+      "51113446211897",
+      "51137647706425"
+    ],
+    "google_item_patterns": [
+      "PHO_16N7LORL",
+      "SHOPIFY_US_9825863270713",
+      "SHOPIFY_<country>_9825863270713_<variant>",
+      "SHOPIFY_US_9974414016825",
+      "SHOPIFY_<country>_9974414016825_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16N7OGIG",
+    "pid": "9966357414201",
+    "shopify_product_ids": [
+      "9966357414201",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "51113441755449",
+      "51113453945145"
+    ],
+    "google_item_patterns": [
+      "PHO_16N7OGIG",
+      "SHOPIFY_US_9966357414201",
+      "SHOPIFY_<country>_9966357414201_<variant>",
+      "SHOPIFY_US_9825863270713",
+      "SHOPIFY_<country>_9825863270713_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16N7OL5D",
+    "pid": "9737807364409",
+    "shopify_product_ids": [
+      "9737807364409",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "50281076359481",
+      "50591175049529"
+    ],
+    "google_item_patterns": [
+      "PHO_16N7OL5D",
+      "SHOPIFY_US_9737807364409",
+      "SHOPIFY_<country>_9737807364409_<variant>",
+      "SHOPIFY_US_9825863270713",
+      "SHOPIFY_<country>_9825863270713_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_16N7QCGI",
+    "pid": "9825863270713",
+    "shopify_product_ids": [
+      "9825863270713",
+      "9974413787449"
+    ],
+    "shopify_variant_ids": [
+      "51113445458233",
+      "51137647477049"
+    ],
+    "google_item_patterns": [
+      "PHO_16N7QCGI",
+      "SHOPIFY_US_9825863270713",
+      "SHOPIFY_<country>_9825863270713_<variant>",
+      "SHOPIFY_US_9974413787449",
+      "SHOPIFY_<country>_9974413787449_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "medium",
+    "reason": "Shopify 已有 SKU 关系，但报告周期内无可投放商品行"
+  },
+  {
+    "sku": "PHO_16N7RF1D",
+    "pid": "9966357643577",
+    "shopify_product_ids": [
+      "9966357643577",
+      "9825863270713"
+    ],
+    "shopify_variant_ids": [
+      "51113444180281",
+      "51113446342969"
+    ],
+    "google_item_patterns": [
+      "PHO_16N7RF1D",
+      "SHOPIFY_US_9966357643577",
+      "SHOPIFY_<country>_9966357643577_<variant>",
+      "SHOPIFY_US_9825863270713",
+      "SHOPIFY_<country>_9825863270713_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "medium",
+    "reason": "Shopify 已有 SKU 关系，但报告周期内无可投放商品行"
+  },
+  {
+    "sku": "PHO_333WWB2G",
+    "pid": "10022399541561",
+    "shopify_product_ids": [
+      "10022399541561"
+    ],
+    "shopify_variant_ids": [
+      "51292833644857"
+    ],
+    "google_item_patterns": [
+      "PHO_333WWB2G",
+      "SHOPIFY_US_10022399541561",
+      "SHOPIFY_<country>_10022399541561_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_333WYEY1",
+    "pid": "10022399607097",
+    "shopify_product_ids": [
+      "10022399607097"
+    ],
+    "shopify_variant_ids": [
+      "51292833710393"
+    ],
+    "google_item_patterns": [
+      "PHO_333WYEY1",
+      "SHOPIFY_US_10022399607097",
+      "SHOPIFY_<country>_10022399607097_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_33CSTAE9",
+    "pid": "9737852944697",
+    "shopify_product_ids": [
+      "9737852944697",
+      "9834336387385"
+    ],
+    "shopify_variant_ids": [
+      "50281141993785",
+      "50619840332089"
+    ],
+    "google_item_patterns": [
+      "PHO_33CSTAE9",
+      "SHOPIFY_US_9737852944697",
+      "SHOPIFY_<country>_9737852944697_<variant>",
+      "SHOPIFY_US_9834336387385",
+      "SHOPIFY_<country>_9834336387385_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PHO_34EYYYEE",
+    "pid": "9991211712825",
+    "shopify_product_ids": [
+      "9991211712825"
+    ],
+    "shopify_variant_ids": [
+      "51184690463033"
+    ],
+    "google_item_patterns": [
+      "PHO_34EYYYEE",
+      "SHOPIFY_US_9991211712825",
+      "SHOPIFY_<country>_9991211712825_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_00PK9K67",
+    "pid": "9491359170873",
+    "shopify_product_ids": [
+      "9491359170873"
+    ],
+    "shopify_variant_ids": [
+      "49490850316601"
+    ],
+    "google_item_patterns": [
+      "PIS_00PK9K67",
+      "SHOPIFY_US_9491359170873",
+      "SHOPIFY_<country>_9491359170873_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_00PKFG30",
+    "pid": "9491282493753",
+    "shopify_product_ids": [
+      "9491282493753"
+    ],
+    "shopify_variant_ids": [
+      "49490555502905"
+    ],
+    "google_item_patterns": [
+      "PIS_00PKFG30",
+      "SHOPIFY_US_9491282493753",
+      "SHOPIFY_<country>_9491282493753_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_00PKURGP",
+    "pid": "9483751391545",
+    "shopify_product_ids": [
+      "9483751391545"
+    ],
+    "shopify_variant_ids": [
+      "49454634860857"
+    ],
+    "google_item_patterns": [
+      "PIS_00PKURGP",
+      "SHOPIFY_US_9483751391545",
+      "SHOPIFY_<country>_9483751391545_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_00VUL554",
+    "pid": "9483745853753",
+    "shopify_product_ids": [
+      "9483745853753"
+    ],
+    "shopify_variant_ids": [
+      "49545345925433"
+    ],
+    "google_item_patterns": [
+      "PIS_00VUL554",
+      "SHOPIFY_US_9483745853753",
+      "SHOPIFY_<country>_9483745853753_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_00Z7B5KL",
+    "pid": "9483219337529",
+    "shopify_product_ids": [
+      "9483219337529"
+    ],
+    "shopify_variant_ids": [
+      "49527651434809"
+    ],
+    "google_item_patterns": [
+      "PIS_00Z7B5KL",
+      "SHOPIFY_US_9483219337529",
+      "SHOPIFY_<country>_9483219337529_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_00Z7ZOU9",
+    "pid": "9965861241145",
+    "shopify_product_ids": [
+      "9965861241145"
+    ],
+    "shopify_variant_ids": [
+      "51112116650297"
+    ],
+    "google_item_patterns": [
+      "PIS_00Z7ZOU9",
+      "SHOPIFY_US_9965861241145",
+      "SHOPIFY_<country>_9965861241145_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_010D9IT6",
+    "pid": "9760520405305",
+    "shopify_product_ids": [
+      "9760520405305",
+      "9777605640505"
+    ],
+    "shopify_variant_ids": [
+      "50370236318009",
+      "50428164571449"
+    ],
+    "google_item_patterns": [
+      "PIS_010D9IT6",
+      "SHOPIFY_US_9760520405305",
+      "SHOPIFY_<country>_9760520405305_<variant>",
+      "SHOPIFY_US_9777605640505",
+      "SHOPIFY_<country>_9777605640505_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_010EXC27",
+    "pid": "9737856385337",
+    "shopify_product_ids": [
+      "9737856385337"
+    ],
+    "shopify_variant_ids": [
+      "50281145434425"
+    ],
+    "google_item_patterns": [
+      "PIS_010EXC27",
+      "SHOPIFY_US_9737856385337",
+      "SHOPIFY_<country>_9737856385337_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_011J5OIO",
+    "pid": "9522979275065",
+    "shopify_product_ids": [
+      "9522979275065"
+    ],
+    "shopify_variant_ids": [
+      "49595384299833"
+    ],
+    "google_item_patterns": [
+      "PIS_011J5OIO",
+      "SHOPIFY_US_9522979275065",
+      "SHOPIFY_<country>_9522979275065_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_334JNLWB",
+    "pid": "9914156482873",
+    "shopify_product_ids": [
+      "9914156482873"
+    ],
+    "shopify_variant_ids": [
+      "50961894015289"
+    ],
+    "google_item_patterns": [
+      "PIS_334JNLWB",
+      "SHOPIFY_US_9914156482873",
+      "SHOPIFY_<country>_9914156482873_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_334JRF3Y",
+    "pid": "9914156384569",
+    "shopify_product_ids": [
+      "9914156384569"
+    ],
+    "shopify_variant_ids": [
+      "50961893884217"
+    ],
+    "google_item_patterns": [
+      "PIS_334JRF3Y",
+      "SHOPIFY_US_9914156384569",
+      "SHOPIFY_<country>_9914156384569_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_334JRUBE",
+    "pid": "9914156450105",
+    "shopify_product_ids": [
+      "9914156450105"
+    ],
+    "shopify_variant_ids": [
+      "50961893949753"
+    ],
+    "google_item_patterns": [
+      "PIS_334JRUBE",
+      "SHOPIFY_US_9914156450105",
+      "SHOPIFY_<country>_9914156450105_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PIS_334QM5W3",
+    "pid": "9965877068089",
+    "shopify_product_ids": [
+      "9965877068089"
+    ],
+    "shopify_variant_ids": [
+      "51112153284921"
+    ],
+    "google_item_patterns": [
+      "PIS_334QM5W3",
+      "SHOPIFY_US_9965877068089",
+      "SHOPIFY_<country>_9965877068089_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PLS_333DBAYR",
+    "pid": "9965860061497",
+    "shopify_product_ids": [
+      "9965860061497"
+    ],
+    "shopify_variant_ids": [
+      "51112115536185"
+    ],
+    "google_item_patterns": [
+      "PLS_333DBAYR",
+      "SHOPIFY_US_9965860061497",
+      "SHOPIFY_<country>_9965860061497_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PLS_335F6A7X",
+    "pid": "9954492645689",
+    "shopify_product_ids": [
+      "9954492645689"
+    ],
+    "shopify_variant_ids": [
+      "51083111104825"
+    ],
+    "google_item_patterns": [
+      "PLS_335F6A7X",
+      "SHOPIFY_US_9954492645689",
+      "SHOPIFY_<country>_9954492645689_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PLS_3363EATU",
+    "pid": "9932471075129",
+    "shopify_product_ids": [
+      "9932471075129"
+    ],
+    "shopify_variant_ids": [
+      "51012249256249"
+    ],
+    "google_item_patterns": [
+      "PLS_3363EATU",
+      "SHOPIFY_US_9932471075129",
+      "SHOPIFY_<country>_9932471075129_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "high",
+    "reason": "Shopify 已有 SKU 关系，但报告周期内无可投放商品行"
+  },
+  {
+    "sku": "POU_0A6HSDGQ",
+    "pid": "9590599811385",
+    "shopify_product_ids": [
+      "9590599811385"
+    ],
+    "shopify_variant_ids": [
+      "49789958979897"
+    ],
+    "google_item_patterns": [
+      "POU_0A6HSDGQ",
+      "SHOPIFY_US_9590599811385",
+      "SHOPIFY_<country>_9590599811385_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33878FWA",
+    "pid": "9934792196409",
+    "shopify_product_ids": [
+      "9934792196409"
+    ],
+    "shopify_variant_ids": [
+      "51019406049593"
+    ],
+    "google_item_patterns": [
+      "PPG_33878FWA",
+      "SHOPIFY_US_9934792196409",
+      "SHOPIFY_<country>_9934792196409_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33AS0GUE",
+    "pid": "10169610240313",
+    "shopify_product_ids": [
+      "10169610240313"
+    ],
+    "shopify_variant_ids": [
+      "52091514388793"
+    ],
+    "google_item_patterns": [
+      "PPG_33AS0GUE",
+      "SHOPIFY_US_10169610240313",
+      "SHOPIFY_<country>_10169610240313_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33AS8ENV",
+    "pid": "10169627148601",
+    "shopify_product_ids": [
+      "10169627148601"
+    ],
+    "shopify_variant_ids": [
+      "52091631272249"
+    ],
+    "google_item_patterns": [
+      "PPG_33AS8ENV",
+      "SHOPIFY_US_10169627148601",
+      "SHOPIFY_<country>_10169627148601_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33AS9XFF",
+    "pid": "10169601327417",
+    "shopify_product_ids": [
+      "10169601327417"
+    ],
+    "shopify_variant_ids": [
+      "52091461828921"
+    ],
+    "google_item_patterns": [
+      "PPG_33AS9XFF",
+      "SHOPIFY_US_10169601327417",
+      "SHOPIFY_<country>_10169601327417_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33AS9YI4",
+    "pid": "10169621709113",
+    "shopify_product_ids": [
+      "10169621709113"
+    ],
+    "shopify_variant_ids": [
+      "52091592048953"
+    ],
+    "google_item_patterns": [
+      "PPG_33AS9YI4",
+      "SHOPIFY_US_10169621709113",
+      "SHOPIFY_<country>_10169621709113_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33ASFJM5",
+    "pid": "10169564758329",
+    "shopify_product_ids": [
+      "10169564758329"
+    ],
+    "shopify_variant_ids": [
+      "52091313619257"
+    ],
+    "google_item_patterns": [
+      "PPG_33ASFJM5",
+      "SHOPIFY_US_10169564758329",
+      "SHOPIFY_<country>_10169564758329_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33ASO0UE",
+    "pid": "10183192936761",
+    "shopify_product_ids": [
+      "10183192936761"
+    ],
+    "shopify_variant_ids": [
+      "52522670850361"
+    ],
+    "google_item_patterns": [
+      "PPG_33ASO0UE",
+      "SHOPIFY_US_10183192936761",
+      "SHOPIFY_<country>_10183192936761_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33ASW1YD",
+    "pid": "10169646743865",
+    "shopify_product_ids": [
+      "10169646743865"
+    ],
+    "shopify_variant_ids": [
+      "52091720728889"
+    ],
+    "google_item_patterns": [
+      "PPG_33ASW1YD",
+      "SHOPIFY_US_10169646743865",
+      "SHOPIFY_<country>_10169646743865_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33ASZLVF",
+    "pid": "10169653461305",
+    "shopify_product_ids": [
+      "10169653461305"
+    ],
+    "shopify_variant_ids": [
+      "52091745698105"
+    ],
+    "google_item_patterns": [
+      "PPG_33ASZLVF",
+      "SHOPIFY_US_10169653461305",
+      "SHOPIFY_<country>_10169653461305_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33P9XSPX",
+    "pid": "10022402228537",
+    "shopify_product_ids": [
+      "10022402228537"
+    ],
+    "shopify_variant_ids": [
+      "51292836921657"
+    ],
+    "google_item_patterns": [
+      "PPG_33P9XSPX",
+      "SHOPIFY_US_10022402228537",
+      "SHOPIFY_<country>_10022402228537_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33Q55H8S",
+    "pid": "10021648597305",
+    "shopify_product_ids": [
+      "10021648597305"
+    ],
+    "shopify_variant_ids": [
+      "51286599139641"
+    ],
+    "google_item_patterns": [
+      "PPG_33Q55H8S",
+      "SHOPIFY_US_10021648597305",
+      "SHOPIFY_<country>_10021648597305_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33Q5JNST",
+    "pid": "10021648499001",
+    "shopify_product_ids": [
+      "10021648499001"
+    ],
+    "shopify_variant_ids": [
+      "51286599041337"
+    ],
+    "google_item_patterns": [
+      "PPG_33Q5JNST",
+      "SHOPIFY_US_10021648499001",
+      "SHOPIFY_<country>_10021648499001_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PPG_33Q5WDER",
+    "pid": "10021648630073",
+    "shopify_product_ids": [
+      "10021648630073"
+    ],
+    "shopify_variant_ids": [
+      "51286599205177"
+    ],
+    "google_item_patterns": [
+      "PPG_33Q5WDER",
+      "SHOPIFY_US_10021648630073",
+      "SHOPIFY_<country>_10021648630073_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PSS_33CX5BP5",
+    "pid": "10053033754937",
+    "shopify_product_ids": [
+      "10053033754937"
+    ],
+    "shopify_variant_ids": [
+      "51397356814649"
+    ],
+    "google_item_patterns": [
+      "PSS_33CX5BP5",
+      "SHOPIFY_US_10053033754937",
+      "SHOPIFY_<country>_10053033754937_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PSS_33CYPCVJ",
+    "pid": "10053030445369",
+    "shopify_product_ids": [
+      "10053030445369"
+    ],
+    "shopify_variant_ids": [
+      "51397352554809"
+    ],
+    "google_item_patterns": [
+      "PSS_33CYPCVJ",
+      "SHOPIFY_US_10053030445369",
+      "SHOPIFY_<country>_10053030445369_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PST_02TZN2NU",
+    "pid": "9482978623801",
+    "shopify_product_ids": [
+      "9482978623801",
+      "10022456426809"
+    ],
+    "shopify_variant_ids": [
+      "49450956259641",
+      "51293212082489"
+    ],
+    "google_item_patterns": [
+      "PST_02TZN2NU",
+      "SHOPIFY_US_9482978623801",
+      "SHOPIFY_<country>_9482978623801_<variant>",
+      "SHOPIFY_US_10022456426809",
+      "SHOPIFY_<country>_10022456426809_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "medium",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTH_33DSFA7V",
+    "pid": "10159805006137",
+    "shopify_product_ids": [
+      "10159805006137"
+    ],
+    "shopify_variant_ids": [
+      "52055079059769"
+    ],
+    "google_item_patterns": [
+      "PTH_33DSFA7V",
+      "SHOPIFY_US_10159805006137",
+      "SHOPIFY_<country>_10159805006137_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0Y7D3QBY",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0Y7D3QBY"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0Y7D7TE8",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0Y7D7TE8"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0Y7DG65D",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0Y7DG65D"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0Y7DGJOA",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0Y7DGJOA"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0Y7DN855",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0Y7DN855"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0Y7DSEEK",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0Y7DSEEK"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0Y7DTSW1",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0Y7DTSW1"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0Y7DVDA4",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0Y7DVDA4"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0Y7DXFTG",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0Y7DXFTG"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLO18T3",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLO18T3"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLO69NT",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLO69NT"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLO6WKL",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLO6WKL"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLO8Y66",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLO8Y66"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLO9984",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLO9984"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLODT69",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLODT69"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLOHUT8",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLOHUT8"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLOK1EA",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLOK1EA"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLOM2MQ",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLOM2MQ"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLOMFIR",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLOMFIR"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLOMX4K",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLOMX4K"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLOO3DR",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLOO3DR"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLOPFSE",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLOPFSE"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLOVXQR",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLOVXQR"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLPBKJH",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLPBKJH"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLPE68C",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLPE68C"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YLPERAI",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YLPERAI"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YMRXPAR",
+    "pid": "9998034829625",
+    "shopify_product_ids": [
+      "9998034829625"
+    ],
+    "shopify_variant_ids": [
+      "51206011060537"
+    ],
+    "google_item_patterns": [
+      "PTO_0YMRXPAR",
+      "SHOPIFY_US_9998034829625",
+      "SHOPIFY_<country>_9998034829625_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0YQIFM7T",
+    "pid": "9491288817977",
+    "shopify_product_ids": [
+      "9491288817977"
+    ],
+    "shopify_variant_ids": [
+      "49490574311737"
+    ],
+    "google_item_patterns": [
+      "PTO_0YQIFM7T",
+      "SHOPIFY_US_9491288817977",
+      "SHOPIFY_<country>_9491288817977_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0YXA0WMY",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YXA0WMY"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YXA3SBX",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YXA3SBX"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YXAAVZI",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YXAAVZI"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YXAFPZ9",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YXAFPZ9"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0YXAUZFZ",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "PTO_0YXAUZFZ"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  },
+  {
+    "sku": "PTO_0Z2QSM1V",
+    "pid": "9482990190905",
+    "shopify_product_ids": [
+      "9482990190905"
+    ],
+    "shopify_variant_ids": [
+      "49451009540409"
+    ],
+    "google_item_patterns": [
+      "PTO_0Z2QSM1V",
+      "SHOPIFY_US_9482990190905",
+      "SHOPIFY_<country>_9482990190905_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0ZC84KM3",
+    "pid": "9652675150137",
+    "shopify_product_ids": [
+      "9652675150137"
+    ],
+    "shopify_variant_ids": [
+      "49930984096057"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZC84KM3",
+      "SHOPIFY_US_9652675150137",
+      "SHOPIFY_<country>_9652675150137_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0ZC8I8IU",
+    "pid": "9652675084601",
+    "shopify_product_ids": [
+      "9652675084601"
+    ],
+    "shopify_variant_ids": [
+      "49930984030521"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZC8I8IU",
+      "SHOPIFY_US_9652675084601",
+      "SHOPIFY_<country>_9652675084601_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0ZC8T9CF",
+    "pid": "9652675182905",
+    "shopify_product_ids": [
+      "9652675182905"
+    ],
+    "shopify_variant_ids": [
+      "49930984161593"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZC8T9CF",
+      "SHOPIFY_US_9652675182905",
+      "SHOPIFY_<country>_9652675182905_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0ZEG7Q6P",
+    "pid": "9863938146617",
+    "shopify_product_ids": [
+      "9863938146617"
+    ],
+    "shopify_variant_ids": [
+      "50723302932793"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZEG7Q6P",
+      "SHOPIFY_US_9863938146617",
+      "SHOPIFY_<country>_9863938146617_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "high",
+    "reason": "Shopify 已有 SKU 关系，但报告周期内无可投放商品行"
+  },
+  {
+    "sku": "PTO_0ZGMFZ15",
+    "pid": "10034267324729",
+    "shopify_product_ids": [
+      "10034267324729"
+    ],
+    "shopify_variant_ids": [
+      "51334756073785"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZGMFZ15",
+      "SHOPIFY_US_10034267324729",
+      "SHOPIFY_<country>_10034267324729_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0ZGMWD2O",
+    "pid": "10034267521337",
+    "shopify_product_ids": [
+      "10034267521337"
+    ],
+    "shopify_variant_ids": [
+      "51334756663609"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZGMWD2O",
+      "SHOPIFY_US_10034267521337",
+      "SHOPIFY_<country>_10034267521337_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0ZGOD9U9",
+    "pid": "9863937851705",
+    "shopify_product_ids": [
+      "9863937851705"
+    ],
+    "shopify_variant_ids": [
+      "50723302637881"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZGOD9U9",
+      "SHOPIFY_US_9863937851705",
+      "SHOPIFY_<country>_9863937851705_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0ZGOJD50",
+    "pid": "9863937818937",
+    "shopify_product_ids": [
+      "9863937818937"
+    ],
+    "shopify_variant_ids": [
+      "50723302605113"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZGOJD50",
+      "SHOPIFY_US_9863937818937",
+      "SHOPIFY_<country>_9863937818937_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0ZGOMT4S",
+    "pid": "9863937786169",
+    "shopify_product_ids": [
+      "9863937786169"
+    ],
+    "shopify_variant_ids": [
+      "50723302572345"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZGOMT4S",
+      "SHOPIFY_US_9863937786169",
+      "SHOPIFY_<country>_9863937786169_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0ZHKN5QK",
+    "pid": "9863939850553",
+    "shopify_product_ids": [
+      "9863939850553"
+    ],
+    "shopify_variant_ids": [
+      "50723304636729"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZHKN5QK",
+      "SHOPIFY_US_9863939850553",
+      "SHOPIFY_<country>_9863939850553_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_0ZHTVLW4",
+    "pid": "9863939195193",
+    "shopify_product_ids": [
+      "9863939195193"
+    ],
+    "shopify_variant_ids": [
+      "50723303981369"
+    ],
+    "google_item_patterns": [
+      "PTO_0ZHTVLW4",
+      "SHOPIFY_US_9863939195193",
+      "SHOPIFY_<country>_9863939195193_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_3336YS1N",
+    "pid": "9863938572601",
+    "shopify_product_ids": [
+      "9863938572601"
+    ],
+    "shopify_variant_ids": [
+      "50723303326009"
+    ],
+    "google_item_patterns": [
+      "PTO_3336YS1N",
+      "SHOPIFY_US_9863938572601",
+      "SHOPIFY_<country>_9863938572601_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "PTO_333DBYHJ",
+    "pid": "9863937491257",
+    "shopify_product_ids": [
+      "9863937491257"
+    ],
+    "shopify_variant_ids": [
+      "50723302310201"
+    ],
+    "google_item_patterns": [
+      "PTO_333DBYHJ",
+      "SHOPIFY_US_9863937491257",
+      "SHOPIFY_<country>_9863937491257_<variant>"
+    ],
+    "shopify_mapping_status": "mapped_from_shopify_catalog",
+    "ads_match_status": "matched_in_report_range",
+    "ads_match_status_7d": "matched_7d",
+    "mapping_confidence": "high",
+    "reason": "Google Ads 商品行已通过 SKU、产品 ID 或变体 ID 关系匹配"
+  },
+  {
+    "sku": "VAM_1ECH8AI3",
+    "pid": null,
+    "shopify_product_ids": [],
+    "shopify_variant_ids": [],
+    "google_item_patterns": [
+      "VAM_1ECH8AI3"
+    ],
+    "shopify_mapping_status": "needs_catalog_mapping",
+    "ads_match_status": "no_google_ads_delivery_in_period",
+    "ads_match_status_7d": "no_google_ads_delivery_in_7d",
+    "mapping_confidence": "none",
+    "reason": "Shopify 商品目录未返回该 SKU，不能从广告汇总值反推产品归属"
+  }
+]
